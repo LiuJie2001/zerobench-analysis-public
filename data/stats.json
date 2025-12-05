@@ -1,0 +1,1021 @@
+{
+  "overall": {
+    "total_questions": 334,
+    "total_assessments": 2255,
+    "unique_abilities": 63,
+    "deficit_level_distribution": {
+      "P2": 1565,
+      "P1": 591,
+      "P0": 44,
+      "P3": 10
+    },
+    "importance_level_distribution": {
+      "P0": 837,
+      "P00": 543,
+      "P1": 872,
+      "P2": 3
+    }
+  },
+  "ability_weakness_ranking": [
+    {
+      "ability_id": 38,
+      "ability_name": "拓扑结构与连通性理解",
+      "total_count": 4,
+      "p0_count": 1,
+      "p1_count": 2,
+      "p2_count": 1,
+      "weakness_count": 1,
+      "weakness_rate": 0.25,
+      "avg_importance": 3.25,
+      "deficit_level_distribution": {
+        "P2": 1,
+        "P0": 1,
+        "P1": 2
+      }
+    },
+    {
+      "ability_id": 23,
+      "ability_name": "多层计数与分组统计",
+      "total_count": 17,
+      "p0_count": 3,
+      "p1_count": 5,
+      "p2_count": 9,
+      "weakness_count": 3,
+      "weakness_rate": 0.17647058823529413,
+      "avg_importance": 3.0588235294117645,
+      "deficit_level_distribution": {
+        "P1": 5,
+        "P2": 9,
+        "P0": 3
+      }
+    },
+    {
+      "ability_id": 19,
+      "ability_name": "时间轴与日历图推理",
+      "total_count": 6,
+      "p0_count": 1,
+      "p1_count": 3,
+      "p2_count": 2,
+      "weakness_count": 1,
+      "weakness_rate": 0.16666666666666666,
+      "avg_importance": 3.0,
+      "deficit_level_distribution": {
+        "P1": 3,
+        "P2": 2,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 34,
+      "ability_name": "约束满足与排除法",
+      "total_count": 13,
+      "p0_count": 2,
+      "p1_count": 7,
+      "p2_count": 4,
+      "weakness_count": 2,
+      "weakness_rate": 0.15384615384615385,
+      "avg_importance": 3.2142857142857144,
+      "deficit_level_distribution": {
+        "P1": 7,
+        "P2": 4,
+        "P0": 2
+      }
+    },
+    {
+      "ability_id": 27,
+      "ability_name": "比例、比率、分数运算",
+      "total_count": 23,
+      "p0_count": 3,
+      "p1_count": 3,
+      "p2_count": 17,
+      "weakness_count": 3,
+      "weakness_rate": 0.13043478260869565,
+      "avg_importance": 3.1666666666666665,
+      "deficit_level_distribution": {
+        "P2": 17,
+        "P1": 3,
+        "P0": 3
+      }
+    },
+    {
+      "ability_id": 35,
+      "ability_name": "图或网格逻辑推理",
+      "total_count": 28,
+      "p0_count": 3,
+      "p1_count": 17,
+      "p2_count": 8,
+      "weakness_count": 3,
+      "weakness_rate": 0.10714285714285714,
+      "avg_importance": 3.206896551724138,
+      "deficit_level_distribution": {
+        "P1": 17,
+        "P2": 8,
+        "P0": 3
+      }
+    },
+    {
+      "ability_id": 25,
+      "ability_name": "遮挡下的结构补全计数",
+      "total_count": 32,
+      "p0_count": 3,
+      "p1_count": 12,
+      "p2_count": 17,
+      "weakness_count": 3,
+      "weakness_rate": 0.09375,
+      "avg_importance": 2.65625,
+      "deficit_level_distribution": {
+        "P2": 17,
+        "P1": 12,
+        "P0": 3
+      }
+    },
+    {
+      "ability_id": 15,
+      "ability_name": "专用符号系统（棋谱、乐谱、公式）",
+      "total_count": 11,
+      "p0_count": 1,
+      "p1_count": 2,
+      "p2_count": 8,
+      "weakness_count": 1,
+      "weakness_rate": 0.09090909090909091,
+      "avg_importance": 3.727272727272727,
+      "deficit_level_distribution": {
+        "P2": 8,
+        "P1": 2,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 16,
+      "ability_name": "扭曲或低质量文本识别",
+      "total_count": 23,
+      "p0_count": 2,
+      "p1_count": 7,
+      "p2_count": 14,
+      "weakness_count": 2,
+      "weakness_rate": 0.08695652173913043,
+      "avg_importance": 3.260869565217391,
+      "deficit_level_distribution": {
+        "P2": 14,
+        "P1": 7,
+        "P0": 2
+      }
+    },
+    {
+      "ability_id": 52,
+      "ability_name": "地理与地点常识",
+      "total_count": 14,
+      "p0_count": 1,
+      "p1_count": 1,
+      "p2_count": 12,
+      "weakness_count": 1,
+      "weakness_rate": 0.07142857142857142,
+      "avg_importance": 2.9285714285714284,
+      "deficit_level_distribution": {
+        "P2": 12,
+        "P1": 1,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 8,
+      "ability_name": "网格与坐标系理解",
+      "total_count": 64,
+      "p0_count": 4,
+      "p1_count": 26,
+      "p2_count": 34,
+      "weakness_count": 4,
+      "weakness_rate": 0.0625,
+      "avg_importance": 3.3846153846153846,
+      "deficit_level_distribution": {
+        "P1": 26,
+        "P2": 34,
+        "P0": 4
+      }
+    },
+    {
+      "ability_id": 36,
+      "ability_name": "路径跟随与终点推理",
+      "total_count": 16,
+      "p0_count": 1,
+      "p1_count": 7,
+      "p2_count": 8,
+      "weakness_count": 1,
+      "weakness_rate": 0.0625,
+      "avg_importance": 3.0,
+      "deficit_level_distribution": {
+        "P2": 8,
+        "P1": 7,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 13,
+      "ability_name": "结构化文本解析（表格、菜单、日历）",
+      "total_count": 20,
+      "p0_count": 1,
+      "p1_count": 5,
+      "p2_count": 14,
+      "weakness_count": 1,
+      "weakness_rate": 0.05,
+      "avg_importance": 3.3,
+      "deficit_level_distribution": {
+        "P2": 14,
+        "P1": 5,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 32,
+      "ability_name": "规则系统理解（棋类、数独等）",
+      "total_count": 26,
+      "p0_count": 1,
+      "p1_count": 7,
+      "p2_count": 18,
+      "weakness_count": 1,
+      "weakness_rate": 0.038461538461538464,
+      "avg_importance": 3.5925925925925926,
+      "deficit_level_distribution": {
+        "P2": 18,
+        "P1": 7,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 26,
+      "ability_name": "基础算术运算",
+      "total_count": 119,
+      "p0_count": 3,
+      "p1_count": 14,
+      "p2_count": 97,
+      "weakness_count": 3,
+      "weakness_rate": 0.025210084033613446,
+      "avg_importance": 2.760330578512397,
+      "deficit_level_distribution": {
+        "P2": 97,
+        "P3": 5,
+        "P1": 14,
+        "P0": 3
+      }
+    },
+    {
+      "ability_id": 59,
+      "ability_name": "中间变量显式计算与记忆",
+      "total_count": 40,
+      "p0_count": 1,
+      "p1_count": 5,
+      "p2_count": 32,
+      "weakness_count": 1,
+      "weakness_rate": 0.025,
+      "avg_importance": 2.2,
+      "deficit_level_distribution": {
+        "P2": 32,
+        "P1": 5,
+        "P3": 2,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 22,
+      "ability_name": "条件计数",
+      "total_count": 87,
+      "p0_count": 2,
+      "p1_count": 39,
+      "p2_count": 46,
+      "weakness_count": 2,
+      "weakness_rate": 0.022988505747126436,
+      "avg_importance": 3.3777777777777778,
+      "deficit_level_distribution": {
+        "P1": 39,
+        "P2": 46,
+        "P0": 2
+      }
+    },
+    {
+      "ability_id": 11,
+      "ability_name": "对称性与布局模式",
+      "total_count": 44,
+      "p0_count": 1,
+      "p1_count": 15,
+      "p2_count": 28,
+      "weakness_count": 1,
+      "weakness_rate": 0.022727272727272728,
+      "avg_importance": 2.5555555555555554,
+      "deficit_level_distribution": {
+        "P0": 1,
+        "P2": 28,
+        "P1": 15
+      }
+    },
+    {
+      "ability_id": 45,
+      "ability_name": "文本描述与对象绑定",
+      "total_count": 52,
+      "p0_count": 1,
+      "p1_count": 3,
+      "p2_count": 48,
+      "weakness_count": 1,
+      "weakness_rate": 0.019230769230769232,
+      "avg_importance": 2.5925925925925926,
+      "deficit_level_distribution": {
+        "P2": 48,
+        "P1": 3,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 2,
+      "ability_name": "细粒度属性识别（颜色/色差/纹理/材质）",
+      "total_count": 71,
+      "p0_count": 1,
+      "p1_count": 20,
+      "p2_count": 50,
+      "weakness_count": 1,
+      "weakness_rate": 0.014084507042253521,
+      "avg_importance": 3.704225352112676,
+      "deficit_level_distribution": {
+        "P2": 50,
+        "P1": 20,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 12,
+      "ability_name": "自然场景文本OCR",
+      "total_count": 75,
+      "p0_count": 1,
+      "p1_count": 24,
+      "p2_count": 50,
+      "weakness_count": 1,
+      "weakness_rate": 0.013333333333333334,
+      "avg_importance": 3.628205128205128,
+      "deficit_level_distribution": {
+        "P2": 50,
+        "P1": 24,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 7,
+      "ability_name": "相对方位与拓扑关系",
+      "total_count": 151,
+      "p0_count": 2,
+      "p1_count": 40,
+      "p2_count": 108,
+      "weakness_count": 2,
+      "weakness_rate": 0.013245033112582781,
+      "avg_importance": 2.7419354838709675,
+      "deficit_level_distribution": {
+        "P2": 108,
+        "P1": 40,
+        "P3": 1,
+        "P0": 2
+      }
+    },
+    {
+      "ability_id": 58,
+      "ability_name": "子任务拆解与顺序执行",
+      "total_count": 91,
+      "p0_count": 1,
+      "p1_count": 18,
+      "p2_count": 72,
+      "weakness_count": 1,
+      "weakness_rate": 0.01098901098901099,
+      "avg_importance": 2.119565217391304,
+      "deficit_level_distribution": {
+        "P2": 72,
+        "P1": 18,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 21,
+      "ability_name": "视觉计数",
+      "total_count": 206,
+      "p0_count": 2,
+      "p1_count": 117,
+      "p2_count": 87,
+      "weakness_count": 2,
+      "weakness_rate": 0.009708737864077669,
+      "avg_importance": 3.4976076555023923,
+      "deficit_level_distribution": {
+        "P1": 117,
+        "P2": 87,
+        "P0": 2
+      }
+    },
+    {
+      "ability_id": 3,
+      "ability_name": "形状与几何属性识别",
+      "total_count": 126,
+      "p0_count": 1,
+      "p1_count": 43,
+      "p2_count": 82,
+      "weakness_count": 1,
+      "weakness_rate": 0.007936507936507936,
+      "avg_importance": 3.2170542635658914,
+      "deficit_level_distribution": {
+        "P1": 43,
+        "P2": 82,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 63,
+      "ability_name": "从思考中抽取最终答案",
+      "total_count": 262,
+      "p0_count": 1,
+      "p1_count": 44,
+      "p2_count": 217,
+      "weakness_count": 1,
+      "weakness_rate": 0.003816793893129771,
+      "avg_importance": 2.198501872659176,
+      "deficit_level_distribution": {
+        "P1": 44,
+        "P2": 217,
+        "P0": 1
+      }
+    },
+    {
+      "ability_id": 62,
+      "ability_name": "理解并遵循输出约束",
+      "total_count": 63,
+      "p0_count": 0,
+      "p1_count": 12,
+      "p2_count": 51,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.453125,
+      "deficit_level_distribution": {
+        "P2": 51,
+        "P1": 12
+      }
+    },
+    {
+      "ability_id": 1,
+      "ability_name": "物体类别识别",
+      "total_count": 137,
+      "p0_count": 0,
+      "p1_count": 7,
+      "p2_count": 130,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.4676258992805757,
+      "deficit_level_distribution": {
+        "P2": 130,
+        "P1": 7
+      }
+    },
+    {
+      "ability_id": 14,
+      "ability_name": "单位与币种识别",
+      "total_count": 18,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 18,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.6666666666666665,
+      "deficit_level_distribution": {
+        "P2": 18
+      }
+    },
+    {
+      "ability_id": 6,
+      "ability_name": "属性绑定",
+      "total_count": 24,
+      "p0_count": 0,
+      "p1_count": 6,
+      "p2_count": 18,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.1538461538461537,
+      "deficit_level_distribution": {
+        "P2": 18,
+        "P1": 6
+      }
+    },
+    {
+      "ability_id": 56,
+      "ability_name": "日常场景与行为常识",
+      "total_count": 3,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 3,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.0,
+      "deficit_level_distribution": {
+        "P2": 3
+      }
+    },
+    {
+      "ability_id": 65,
+      "ability_name": "避免多余或缺失信息",
+      "total_count": 35,
+      "p0_count": 0,
+      "p1_count": 8,
+      "p2_count": 27,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.3714285714285714,
+      "deficit_level_distribution": {
+        "P2": 27,
+        "P1": 8
+      }
+    },
+    {
+      "ability_id": 5,
+      "ability_name": "复杂场景理解",
+      "total_count": 80,
+      "p0_count": 0,
+      "p1_count": 5,
+      "p2_count": 75,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.0481927710843375,
+      "deficit_level_distribution": {
+        "P2": 75,
+        "P1": 5
+      }
+    },
+    {
+      "ability_id": 57,
+      "ability_name": "社会与经济常识",
+      "total_count": 1,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 1,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.0,
+      "deficit_level_distribution": {
+        "P2": 1
+      }
+    },
+    {
+      "ability_id": 10,
+      "ability_name": "视角与投影理解",
+      "total_count": 35,
+      "p0_count": 0,
+      "p1_count": 12,
+      "p2_count": 23,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.5428571428571427,
+      "deficit_level_distribution": {
+        "P1": 12,
+        "P2": 23
+      }
+    },
+    {
+      "ability_id": 40,
+      "ability_name": "合法动作序列生成",
+      "total_count": 5,
+      "p0_count": 0,
+      "p1_count": 3,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.4,
+      "deficit_level_distribution": {
+        "P2": 2,
+        "P1": 3
+      }
+    },
+    {
+      "ability_id": 37,
+      "ability_name": "最短路径与最小代价搜索",
+      "total_count": 4,
+      "p0_count": 0,
+      "p1_count": 2,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 4.0,
+      "deficit_level_distribution": {
+        "P1": 2,
+        "P2": 2
+      }
+    },
+    {
+      "ability_id": 43,
+      "ability_name": "多步模拟与修正",
+      "total_count": 2,
+      "p0_count": 0,
+      "p1_count": 2,
+      "p2_count": 0,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.5,
+      "deficit_level_distribution": {
+        "P1": 2
+      }
+    },
+    {
+      "ability_id": 24,
+      "ability_name": "组合计数与去重",
+      "total_count": 14,
+      "p0_count": 0,
+      "p1_count": 5,
+      "p2_count": 9,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.2666666666666666,
+      "deficit_level_distribution": {
+        "P2": 9,
+        "P1": 5
+      }
+    },
+    {
+      "ability_id": 39,
+      "ability_name": "物理或几何路径预测",
+      "total_count": 10,
+      "p0_count": 0,
+      "p1_count": 3,
+      "p2_count": 7,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.4,
+      "deficit_level_distribution": {
+        "P2": 7,
+        "P1": 3
+      }
+    },
+    {
+      "ability_id": 53,
+      "ability_name": "科学与量纲常识",
+      "total_count": 10,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 10,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.7,
+      "deficit_level_distribution": {
+        "P2": 10
+      }
+    },
+    {
+      "ability_id": 31,
+      "ability_name": "近似与有效数字控制",
+      "total_count": 18,
+      "p0_count": 0,
+      "p1_count": 4,
+      "p2_count": 13,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.7222222222222223,
+      "deficit_level_distribution": {
+        "P2": 13,
+        "P3": 1,
+        "P1": 4
+      }
+    },
+    {
+      "ability_id": 42,
+      "ability_name": "约束下的最优决策",
+      "total_count": 4,
+      "p0_count": 0,
+      "p1_count": 2,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.25,
+      "deficit_level_distribution": {
+        "P1": 2,
+        "P2": 2
+      }
+    },
+    {
+      "ability_id": 61,
+      "ability_name": "长链推理一致性维护",
+      "total_count": 8,
+      "p0_count": 0,
+      "p1_count": 4,
+      "p2_count": 4,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.375,
+      "deficit_level_distribution": {
+        "P1": 4,
+        "P2": 4
+      }
+    },
+    {
+      "ability_id": 9,
+      "ability_name": "几何变换（旋转、镜像、翻转）",
+      "total_count": 15,
+      "p0_count": 0,
+      "p1_count": 4,
+      "p2_count": 11,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.6,
+      "deficit_level_distribution": {
+        "P2": 11,
+        "P1": 4
+      }
+    },
+    {
+      "ability_id": 18,
+      "ability_name": "栅格与热力图模式识别",
+      "total_count": 5,
+      "p0_count": 0,
+      "p1_count": 3,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.6,
+      "deficit_level_distribution": {
+        "P2": 2,
+        "P1": 3
+      }
+    },
+    {
+      "ability_id": 33,
+      "ability_name": "局面合法性判断",
+      "total_count": 3,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.6666666666666665,
+      "deficit_level_distribution": {
+        "P2": 2,
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 44,
+      "ability_name": "颜色、编号、箭头对齐",
+      "total_count": 23,
+      "p0_count": 0,
+      "p1_count": 3,
+      "p2_count": 20,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.739130434782609,
+      "deficit_level_distribution": {
+        "P2": 20,
+        "P1": 3
+      }
+    },
+    {
+      "ability_id": 30,
+      "ability_name": "组合与图论数量计算",
+      "total_count": 3,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.3333333333333335,
+      "deficit_level_distribution": {
+        "P2": 2,
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 48,
+      "ability_name": "多图信息对比与合并",
+      "total_count": 10,
+      "p0_count": 0,
+      "p1_count": 4,
+      "p2_count": 6,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.5,
+      "deficit_level_distribution": {
+        "P2": 6,
+        "P1": 4
+      }
+    },
+    {
+      "ability_id": 54,
+      "ability_name": "体育与文化常识",
+      "total_count": 13,
+      "p0_count": 0,
+      "p1_count": 4,
+      "p2_count": 9,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.0714285714285716,
+      "deficit_level_distribution": {
+        "P2": 9,
+        "P1": 4
+      }
+    },
+    {
+      "ability_id": 51,
+      "ability_name": "跨图联合计数与汇总",
+      "total_count": 1,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 1,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.0,
+      "deficit_level_distribution": {
+        "P2": 1
+      }
+    },
+    {
+      "ability_id": 28,
+      "ability_name": "单位换算与量纲一致性",
+      "total_count": 7,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 6,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.7142857142857144,
+      "deficit_level_distribution": {
+        "P3": 1,
+        "P2": 6
+      }
+    },
+    {
+      "ability_id": 47,
+      "ability_name": "多图或多区域实体对齐",
+      "total_count": 5,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 4,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.6,
+      "deficit_level_distribution": {
+        "P2": 4,
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 4,
+      "ability_name": "身体部位与姿态识别",
+      "total_count": 7,
+      "p0_count": 0,
+      "p1_count": 2,
+      "p2_count": 5,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.142857142857143,
+      "deficit_level_distribution": {
+        "P2": 5,
+        "P1": 2
+      }
+    },
+    {
+      "ability_id": 41,
+      "ability_name": "前瞻性策略规划",
+      "total_count": 1,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 0,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 4.0,
+      "deficit_level_distribution": {
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 29,
+      "ability_name": "时间与日期计算",
+      "total_count": 6,
+      "p0_count": 0,
+      "p1_count": 2,
+      "p2_count": 4,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.8333333333333335,
+      "deficit_level_distribution": {
+        "P2": 4,
+        "P1": 2
+      }
+    },
+    {
+      "ability_id": 55,
+      "ability_name": "物体用途与功能常识",
+      "total_count": 5,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 5,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.8,
+      "deficit_level_distribution": {
+        "P2": 5
+      }
+    },
+    {
+      "ability_id": 60,
+      "ability_name": "多子问题结果组合",
+      "total_count": 3,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.6666666666666665,
+      "deficit_level_distribution": {
+        "P2": 2,
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 46,
+      "ability_name": "跨视角实体对齐",
+      "total_count": 4,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 3,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 3.4,
+      "deficit_level_distribution": {
+        "P2": 3,
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 50,
+      "ability_name": "多视角融合理解",
+      "total_count": 1,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 0,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 2.0,
+      "deficit_level_distribution": {
+        "P1": 1
+      }
+    },
+    {
+      "ability_id": 20,
+      "ability_name": "图表比例尺与刻度读取",
+      "total_count": 3,
+      "p0_count": 0,
+      "p1_count": 0,
+      "p2_count": 3,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 4.0,
+      "deficit_level_distribution": {
+        "P2": 3
+      }
+    },
+    {
+      "ability_id": 17,
+      "ability_name": "统计图表读取",
+      "total_count": 3,
+      "p0_count": 0,
+      "p1_count": 1,
+      "p2_count": 2,
+      "weakness_count": 0,
+      "weakness_rate": 0.0,
+      "avg_importance": 4.0,
+      "deficit_level_distribution": {
+        "P2": 2,
+        "P1": 1
+      }
+    }
+  ],
+  "model_performance": {
+    "google/gemini-3-pro-preview": {
+      "total_questions": 62,
+      "correct_answers": 27,
+      "accuracy": 0.43548387096774194,
+      "deficit_level_distribution": {
+        "P2": 270,
+        "P1": 132,
+        "P0": 2,
+        "P3": 1
+      },
+      "importance_level_distribution": {
+        "P0": 149,
+        "P00": 100,
+        "P1": 165
+      }
+    },
+    "gpt-5.1-2025-11-13": {
+      "total_questions": 272,
+      "correct_answers": 51,
+      "accuracy": 0.1875,
+      "deficit_level_distribution": {
+        "P1": 459,
+        "P2": 1295,
+        "P0": 42,
+        "P3": 9
+      },
+      "importance_level_distribution": {
+        "P00": 443,
+        "P1": 707,
+        "P0": 688,
+        "P2": 3
+      }
+    }
+  }
+}
