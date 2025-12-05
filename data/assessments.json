@@ -104,7 +104,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/3_0.png"
     ],
-    "frontend_image_path": "/images/3_0.png"
+    "frontend_image_path": "./images/3_0.png"
   },
   {
     "id": 1,
@@ -184,7 +184,7 @@
       "benchmarks/ZeroBench_hf/images/2_0.png",
       "benchmarks/ZeroBench_hf/images/2_1.png"
     ],
-    "frontend_image_path": "/images/2_0.png"
+    "frontend_image_path": "./images/2_0.png"
   },
   {
     "id": 2,
@@ -278,7 +278,7 @@
       "benchmarks/ZeroBench_hf/images/2_0.png",
       "benchmarks/ZeroBench_hf/images/2_1.png"
     ],
-    "frontend_image_path": "/images/2_0.png"
+    "frontend_image_path": "./images/2_0.png"
   },
   {
     "id": 3,
@@ -387,7 +387,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/1_0.png"
     ],
-    "frontend_image_path": "/images/1_0.png"
+    "frontend_image_path": "./images/1_0.png"
   },
   {
     "id": 4,
@@ -496,7 +496,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/1_0.png"
     ],
-    "frontend_image_path": "/images/1_0.png"
+    "frontend_image_path": "./images/1_0.png"
   },
   {
     "id": 5,
@@ -629,7 +629,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/1_0.png"
     ],
-    "frontend_image_path": "/images/1_0.png"
+    "frontend_image_path": "./images/1_0.png"
   },
   {
     "id": 6,
@@ -750,7 +750,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/1_0.png"
     ],
-    "frontend_image_path": "/images/1_0.png"
+    "frontend_image_path": "./images/1_0.png"
   },
   {
     "id": 7,
@@ -876,7 +876,7 @@
       "benchmarks/ZeroBench_hf/images/2_0.png",
       "benchmarks/ZeroBench_hf/images/2_1.png"
     ],
-    "frontend_image_path": "/images/2_0.png"
+    "frontend_image_path": "./images/2_0.png"
   },
   {
     "id": 8,
@@ -979,7 +979,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/3_0.png"
     ],
-    "frontend_image_path": "/images/3_0.png"
+    "frontend_image_path": "./images/3_0.png"
   },
   {
     "id": 9,
@@ -1214,7 +1214,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/3_0.png"
     ],
-    "frontend_image_path": "/images/3_0.png"
+    "frontend_image_path": "./images/3_0.png"
   },
   {
     "id": 10,
@@ -1339,7 +1339,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/3_0.png"
     ],
-    "frontend_image_path": "/images/3_0.png"
+    "frontend_image_path": "./images/3_0.png"
   },
   {
     "id": 11,
@@ -1460,7 +1460,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/3_0.png"
     ],
-    "frontend_image_path": "/images/3_0.png"
+    "frontend_image_path": "./images/3_0.png"
   },
   {
     "id": 12,
@@ -1571,7 +1571,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/4_0.png"
     ],
-    "frontend_image_path": "/images/4_0.png"
+    "frontend_image_path": "./images/4_0.png"
   },
   {
     "id": 13,
@@ -1682,7 +1682,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/4_0.png"
     ],
-    "frontend_image_path": "/images/4_0.png"
+    "frontend_image_path": "./images/4_0.png"
   },
   {
     "id": 14,
@@ -1799,7 +1799,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/4_0.png"
     ],
-    "frontend_image_path": "/images/4_0.png"
+    "frontend_image_path": "./images/4_0.png"
   },
   {
     "id": 15,
@@ -1916,7 +1916,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/5_0.png"
     ],
-    "frontend_image_path": "/images/5_0.png"
+    "frontend_image_path": "./images/5_0.png"
   },
   {
     "id": 16,
@@ -2029,7 +2029,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/5_0.png"
     ],
-    "frontend_image_path": "/images/5_0.png"
+    "frontend_image_path": "./images/5_0.png"
   },
   {
     "id": 17,
@@ -2156,7 +2156,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/5_0.png"
     ],
-    "frontend_image_path": "/images/5_0.png"
+    "frontend_image_path": "./images/5_0.png"
   },
   {
     "id": 18,
@@ -2277,7 +2277,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/5_0.png"
     ],
-    "frontend_image_path": "/images/5_0.png"
+    "frontend_image_path": "./images/5_0.png"
   },
   {
     "id": 19,
@@ -2378,7 +2378,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/5_0.png"
     ],
-    "frontend_image_path": "/images/5_0.png"
+    "frontend_image_path": "./images/5_0.png"
   },
   {
     "id": 20,
@@ -2481,7 +2481,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/6_0.png"
     ],
-    "frontend_image_path": "/images/6_0.png"
+    "frontend_image_path": "./images/6_0.png"
   },
   {
     "id": 21,
@@ -2594,7 +2594,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/6_0.png"
     ],
-    "frontend_image_path": "/images/6_0.png"
+    "frontend_image_path": "./images/6_0.png"
   },
   {
     "id": 22,
@@ -2711,7 +2711,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/6_0.png"
     ],
-    "frontend_image_path": "/images/6_0.png"
+    "frontend_image_path": "./images/6_0.png"
   },
   {
     "id": 23,
@@ -2844,7 +2844,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/7_0.png"
     ],
-    "frontend_image_path": "/images/7_0.png"
+    "frontend_image_path": "./images/7_0.png"
   },
   {
     "id": 24,
@@ -2955,7 +2955,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/7_0.png"
     ],
-    "frontend_image_path": "/images/7_0.png"
+    "frontend_image_path": "./images/7_0.png"
   },
   {
     "id": 25,
@@ -3058,7 +3058,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/7_0.png"
     ],
-    "frontend_image_path": "/images/7_0.png"
+    "frontend_image_path": "./images/7_0.png"
   },
   {
     "id": 26,
@@ -3265,7 +3265,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/6_0.png"
     ],
-    "frontend_image_path": "/images/6_0.png"
+    "frontend_image_path": "./images/6_0.png"
   },
   {
     "id": 27,
@@ -3358,7 +3358,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/9_0.png"
     ],
-    "frontend_image_path": "/images/9_0.png"
+    "frontend_image_path": "./images/9_0.png"
   },
   {
     "id": 28,
@@ -3465,7 +3465,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/9_0.png"
     ],
-    "frontend_image_path": "/images/9_0.png"
+    "frontend_image_path": "./images/9_0.png"
   },
   {
     "id": 29,
@@ -3602,7 +3602,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/8_0.png"
     ],
-    "frontend_image_path": "/images/8_0.png"
+    "frontend_image_path": "./images/8_0.png"
   },
   {
     "id": 30,
@@ -3723,7 +3723,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/8_0.png"
     ],
-    "frontend_image_path": "/images/8_0.png"
+    "frontend_image_path": "./images/8_0.png"
   },
   {
     "id": 31,
@@ -3890,7 +3890,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/8_0.png"
     ],
-    "frontend_image_path": "/images/8_0.png"
+    "frontend_image_path": "./images/8_0.png"
   },
   {
     "id": 32,
@@ -4011,7 +4011,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/8_0.png"
     ],
-    "frontend_image_path": "/images/8_0.png"
+    "frontend_image_path": "./images/8_0.png"
   },
   {
     "id": 33,
@@ -4114,7 +4114,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/8_0.png"
     ],
-    "frontend_image_path": "/images/8_0.png"
+    "frontend_image_path": "./images/8_0.png"
   },
   {
     "id": 34,
@@ -4233,7 +4233,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/4_0.png"
     ],
-    "frontend_image_path": "/images/4_0.png"
+    "frontend_image_path": "./images/4_0.png"
   },
   {
     "id": 35,
@@ -4326,7 +4326,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/9_0.png"
     ],
-    "frontend_image_path": "/images/9_0.png"
+    "frontend_image_path": "./images/9_0.png"
   },
   {
     "id": 36,
@@ -4517,7 +4517,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/10_0.png"
     ],
-    "frontend_image_path": "/images/10_0.png"
+    "frontend_image_path": "./images/10_0.png"
   },
   {
     "id": 37,
@@ -4716,7 +4716,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/10_0.png"
     ],
-    "frontend_image_path": "/images/10_0.png"
+    "frontend_image_path": "./images/10_0.png"
   },
   {
     "id": 38,
@@ -4911,7 +4911,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/10_0.png"
     ],
-    "frontend_image_path": "/images/10_0.png"
+    "frontend_image_path": "./images/10_0.png"
   },
   {
     "id": 39,
@@ -5008,7 +5008,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/12_0.png"
     ],
-    "frontend_image_path": "/images/12_0.png"
+    "frontend_image_path": "./images/12_0.png"
   },
   {
     "id": 40,
@@ -5241,7 +5241,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/10_0.png"
     ],
-    "frontend_image_path": "/images/10_0.png"
+    "frontend_image_path": "./images/10_0.png"
   },
   {
     "id": 41,
@@ -5438,7 +5438,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/11_0.png"
     ],
-    "frontend_image_path": "/images/11_0.png"
+    "frontend_image_path": "./images/11_0.png"
   },
   {
     "id": 42,
@@ -5561,7 +5561,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/12_0.png"
     ],
-    "frontend_image_path": "/images/12_0.png"
+    "frontend_image_path": "./images/12_0.png"
   },
   {
     "id": 43,
@@ -5664,7 +5664,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/11_0.png"
     ],
-    "frontend_image_path": "/images/11_0.png"
+    "frontend_image_path": "./images/11_0.png"
   },
   {
     "id": 44,
@@ -5801,7 +5801,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/11_0.png"
     ],
-    "frontend_image_path": "/images/11_0.png"
+    "frontend_image_path": "./images/11_0.png"
   },
   {
     "id": 45,
@@ -5874,7 +5874,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/14_0.png"
     ],
-    "frontend_image_path": "/images/14_0.png"
+    "frontend_image_path": "./images/14_0.png"
   },
   {
     "id": 46,
@@ -5967,7 +5967,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/14_0.png"
     ],
-    "frontend_image_path": "/images/14_0.png"
+    "frontend_image_path": "./images/14_0.png"
   },
   {
     "id": 47,
@@ -6086,7 +6086,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/12_0.png"
     ],
-    "frontend_image_path": "/images/12_0.png"
+    "frontend_image_path": "./images/12_0.png"
   },
   {
     "id": 48,
@@ -6183,7 +6183,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/14_0.png"
     ],
-    "frontend_image_path": "/images/14_0.png"
+    "frontend_image_path": "./images/14_0.png"
   },
   {
     "id": 49,
@@ -6276,7 +6276,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/13_0.png"
     ],
-    "frontend_image_path": "/images/13_0.png"
+    "frontend_image_path": "./images/13_0.png"
   },
   {
     "id": 50,
@@ -6411,7 +6411,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/11_0.png"
     ],
-    "frontend_image_path": "/images/11_0.png"
+    "frontend_image_path": "./images/11_0.png"
   },
   {
     "id": 51,
@@ -6488,7 +6488,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/14_0.png"
     ],
-    "frontend_image_path": "/images/14_0.png"
+    "frontend_image_path": "./images/14_0.png"
   },
   {
     "id": 52,
@@ -6581,7 +6581,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/13_0.png"
     ],
-    "frontend_image_path": "/images/13_0.png"
+    "frontend_image_path": "./images/13_0.png"
   },
   {
     "id": 53,
@@ -6670,7 +6670,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/14_0.png"
     ],
-    "frontend_image_path": "/images/14_0.png"
+    "frontend_image_path": "./images/14_0.png"
   },
   {
     "id": 54,
@@ -6835,7 +6835,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/15_0.png"
     ],
-    "frontend_image_path": "/images/15_0.png"
+    "frontend_image_path": "./images/15_0.png"
   },
   {
     "id": 55,
@@ -6962,7 +6962,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/15_0.png"
     ],
-    "frontend_image_path": "/images/15_0.png"
+    "frontend_image_path": "./images/15_0.png"
   },
   {
     "id": 56,
@@ -7061,7 +7061,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/15_0.png"
     ],
-    "frontend_image_path": "/images/15_0.png"
+    "frontend_image_path": "./images/15_0.png"
   },
   {
     "id": 57,
@@ -7150,7 +7150,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/15_0.png"
     ],
-    "frontend_image_path": "/images/15_0.png"
+    "frontend_image_path": "./images/15_0.png"
   },
   {
     "id": 58,
@@ -7271,7 +7271,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/16_0.png"
     ],
-    "frontend_image_path": "/images/16_0.png"
+    "frontend_image_path": "./images/16_0.png"
   },
   {
     "id": 59,
@@ -7432,7 +7432,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/16_0.png"
     ],
-    "frontend_image_path": "/images/16_0.png"
+    "frontend_image_path": "./images/16_0.png"
   },
   {
     "id": 60,
@@ -7711,7 +7711,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/18_0.png"
     ],
-    "frontend_image_path": "/images/18_0.png"
+    "frontend_image_path": "./images/18_0.png"
   },
   {
     "id": 61,
@@ -7804,7 +7804,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/17_0.png"
     ],
-    "frontend_image_path": "/images/17_0.png"
+    "frontend_image_path": "./images/17_0.png"
   },
   {
     "id": 62,
@@ -7941,7 +7941,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/17_0.png"
     ],
-    "frontend_image_path": "/images/17_0.png"
+    "frontend_image_path": "./images/17_0.png"
   },
   {
     "id": 63,
@@ -8043,7 +8043,7 @@
       "benchmarks/ZeroBench_hf/images/2_0.png",
       "benchmarks/ZeroBench_hf/images/2_1.png"
     ],
-    "frontend_image_path": "/images/2_0.png"
+    "frontend_image_path": "./images/2_0.png"
   },
   {
     "id": 64,
@@ -8172,7 +8172,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/17_0.png"
     ],
-    "frontend_image_path": "/images/17_0.png"
+    "frontend_image_path": "./images/17_0.png"
   },
   {
     "id": 65,
@@ -8335,7 +8335,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/18_0.png"
     ],
-    "frontend_image_path": "/images/18_0.png"
+    "frontend_image_path": "./images/18_0.png"
   },
   {
     "id": 66,
@@ -8550,7 +8550,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/18_0.png"
     ],
-    "frontend_image_path": "/images/18_0.png"
+    "frontend_image_path": "./images/18_0.png"
   },
   {
     "id": 67,
@@ -8673,7 +8673,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/17_0.png"
     ],
-    "frontend_image_path": "/images/17_0.png"
+    "frontend_image_path": "./images/17_0.png"
   },
   {
     "id": 68,
@@ -8776,7 +8776,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/19_0.png"
     ],
-    "frontend_image_path": "/images/19_0.png"
+    "frontend_image_path": "./images/19_0.png"
   },
   {
     "id": 69,
@@ -8869,7 +8869,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/19_0.png"
     ],
-    "frontend_image_path": "/images/19_0.png"
+    "frontend_image_path": "./images/19_0.png"
   },
   {
     "id": 70,
@@ -8987,7 +8987,7 @@
       "benchmarks/ZeroBench_hf/images/20_0.png",
       "benchmarks/ZeroBench_hf/images/20_1.png"
     ],
-    "frontend_image_path": "/images/20_0.png"
+    "frontend_image_path": "./images/20_0.png"
   },
   {
     "id": 71,
@@ -9117,7 +9117,7 @@
       "benchmarks/ZeroBench_hf/images/20_0.png",
       "benchmarks/ZeroBench_hf/images/20_1.png"
     ],
-    "frontend_image_path": "/images/20_0.png"
+    "frontend_image_path": "./images/20_0.png"
   },
   {
     "id": 72,
@@ -9236,7 +9236,7 @@
       "benchmarks/ZeroBench_hf/images/21_1.png",
       "benchmarks/ZeroBench_hf/images/21_2.png"
     ],
-    "frontend_image_path": "/images/21_0.png"
+    "frontend_image_path": "./images/21_0.png"
   },
   {
     "id": 73,
@@ -9386,7 +9386,7 @@
       "benchmarks/ZeroBench_hf/images/20_0.png",
       "benchmarks/ZeroBench_hf/images/20_1.png"
     ],
-    "frontend_image_path": "/images/20_0.png"
+    "frontend_image_path": "./images/20_0.png"
   },
   {
     "id": 74,
@@ -9581,7 +9581,7 @@
       "benchmarks/ZeroBench_hf/images/21_1.png",
       "benchmarks/ZeroBench_hf/images/21_2.png"
     ],
-    "frontend_image_path": "/images/21_0.png"
+    "frontend_image_path": "./images/21_0.png"
   },
   {
     "id": 75,
@@ -9707,7 +9707,7 @@
       "benchmarks/ZeroBench_hf/images/20_0.png",
       "benchmarks/ZeroBench_hf/images/20_1.png"
     ],
-    "frontend_image_path": "/images/20_0.png"
+    "frontend_image_path": "./images/20_0.png"
   },
   {
     "id": 76,
@@ -9846,7 +9846,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/22_0.png"
     ],
-    "frontend_image_path": "/images/22_0.png"
+    "frontend_image_path": "./images/22_0.png"
   },
   {
     "id": 77,
@@ -9933,7 +9933,7 @@
       "benchmarks/ZeroBench_hf/images/21_1.png",
       "benchmarks/ZeroBench_hf/images/21_2.png"
     ],
-    "frontend_image_path": "/images/21_0.png"
+    "frontend_image_path": "./images/21_0.png"
   },
   {
     "id": 78,
@@ -10046,7 +10046,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/15_0.png"
     ],
-    "frontend_image_path": "/images/15_0.png"
+    "frontend_image_path": "./images/15_0.png"
   },
   {
     "id": 79,
@@ -10181,7 +10181,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/23_0.png"
     ],
-    "frontend_image_path": "/images/23_0.png"
+    "frontend_image_path": "./images/23_0.png"
   },
   {
     "id": 80,
@@ -10282,7 +10282,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/22_0.png"
     ],
-    "frontend_image_path": "/images/22_0.png"
+    "frontend_image_path": "./images/22_0.png"
   },
   {
     "id": 81,
@@ -10383,7 +10383,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/22_0.png"
     ],
-    "frontend_image_path": "/images/22_0.png"
+    "frontend_image_path": "./images/22_0.png"
   },
   {
     "id": 82,
@@ -10524,7 +10524,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/22_0.png"
     ],
-    "frontend_image_path": "/images/22_0.png"
+    "frontend_image_path": "./images/22_0.png"
   },
   {
     "id": 83,
@@ -10659,7 +10659,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/22_0.png"
     ],
-    "frontend_image_path": "/images/22_0.png"
+    "frontend_image_path": "./images/22_0.png"
   },
   {
     "id": 84,
@@ -10780,7 +10780,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/23_0.png"
     ],
-    "frontend_image_path": "/images/23_0.png"
+    "frontend_image_path": "./images/23_0.png"
   },
   {
     "id": 85,
@@ -10915,7 +10915,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/24_0.png"
     ],
-    "frontend_image_path": "/images/24_0.png"
+    "frontend_image_path": "./images/24_0.png"
   },
   {
     "id": 86,
@@ -11094,7 +11094,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/24_0.png"
     ],
-    "frontend_image_path": "/images/24_0.png"
+    "frontend_image_path": "./images/24_0.png"
   },
   {
     "id": 87,
@@ -11301,7 +11301,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/24_0.png"
     ],
-    "frontend_image_path": "/images/24_0.png"
+    "frontend_image_path": "./images/24_0.png"
   },
   {
     "id": 88,
@@ -11408,7 +11408,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/25_0.png"
     ],
-    "frontend_image_path": "/images/25_0.png"
+    "frontend_image_path": "./images/25_0.png"
   },
   {
     "id": 89,
@@ -11545,7 +11545,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/25_0.png"
     ],
-    "frontend_image_path": "/images/25_0.png"
+    "frontend_image_path": "./images/25_0.png"
   },
   {
     "id": 90,
@@ -11666,7 +11666,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/23_0.png"
     ],
-    "frontend_image_path": "/images/23_0.png"
+    "frontend_image_path": "./images/23_0.png"
   },
   {
     "id": 91,
@@ -11763,7 +11763,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/26_0.png"
     ],
-    "frontend_image_path": "/images/26_0.png"
+    "frontend_image_path": "./images/26_0.png"
   },
   {
     "id": 92,
@@ -11862,7 +11862,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/26_0.png"
     ],
-    "frontend_image_path": "/images/26_0.png"
+    "frontend_image_path": "./images/26_0.png"
   },
   {
     "id": 93,
@@ -11979,7 +11979,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/26_0.png"
     ],
-    "frontend_image_path": "/images/26_0.png"
+    "frontend_image_path": "./images/26_0.png"
   },
   {
     "id": 94,
@@ -12080,7 +12080,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/26_0.png"
     ],
-    "frontend_image_path": "/images/26_0.png"
+    "frontend_image_path": "./images/26_0.png"
   },
   {
     "id": 95,
@@ -12201,7 +12201,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/28_0.png"
     ],
-    "frontend_image_path": "/images/28_0.png"
+    "frontend_image_path": "./images/28_0.png"
   },
   {
     "id": 96,
@@ -12354,7 +12354,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/28_0.png"
     ],
-    "frontend_image_path": "/images/28_0.png"
+    "frontend_image_path": "./images/28_0.png"
   },
   {
     "id": 97,
@@ -12513,7 +12513,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/28_0.png"
     ],
-    "frontend_image_path": "/images/28_0.png"
+    "frontend_image_path": "./images/28_0.png"
   },
   {
     "id": 98,
@@ -12668,7 +12668,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/28_0.png"
     ],
-    "frontend_image_path": "/images/28_0.png"
+    "frontend_image_path": "./images/28_0.png"
   },
   {
     "id": 99,
@@ -12811,7 +12811,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/27_0.png"
     ],
-    "frontend_image_path": "/images/27_0.png"
+    "frontend_image_path": "./images/27_0.png"
   },
   {
     "id": 100,
@@ -12928,7 +12928,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/30_0.png"
     ],
-    "frontend_image_path": "/images/30_0.png"
+    "frontend_image_path": "./images/30_0.png"
   },
   {
     "id": 101,
@@ -13011,7 +13011,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/30_0.png"
     ],
-    "frontend_image_path": "/images/30_0.png"
+    "frontend_image_path": "./images/30_0.png"
   },
   {
     "id": 102,
@@ -13108,7 +13108,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/30_0.png"
     ],
-    "frontend_image_path": "/images/30_0.png"
+    "frontend_image_path": "./images/30_0.png"
   },
   {
     "id": 103,
@@ -13223,7 +13223,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/31_0.png"
     ],
-    "frontend_image_path": "/images/31_0.png"
+    "frontend_image_path": "./images/31_0.png"
   },
   {
     "id": 104,
@@ -13368,7 +13368,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/30_0.png"
     ],
-    "frontend_image_path": "/images/30_0.png"
+    "frontend_image_path": "./images/30_0.png"
   },
   {
     "id": 105,
@@ -13471,7 +13471,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/30_0.png"
     ],
-    "frontend_image_path": "/images/30_0.png"
+    "frontend_image_path": "./images/30_0.png"
   },
   {
     "id": 106,
@@ -13578,7 +13578,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/29_0.png"
     ],
-    "frontend_image_path": "/images/29_0.png"
+    "frontend_image_path": "./images/29_0.png"
   },
   {
     "id": 107,
@@ -13671,7 +13671,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/31_0.png"
     ],
-    "frontend_image_path": "/images/31_0.png"
+    "frontend_image_path": "./images/31_0.png"
   },
   {
     "id": 108,
@@ -13786,7 +13786,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/32_0.png"
     ],
-    "frontend_image_path": "/images/32_0.png"
+    "frontend_image_path": "./images/32_0.png"
   },
   {
     "id": 109,
@@ -13959,7 +13959,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/32_0.png"
     ],
-    "frontend_image_path": "/images/32_0.png"
+    "frontend_image_path": "./images/32_0.png"
   },
   {
     "id": 110,
@@ -14060,7 +14060,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/29_0.png"
     ],
-    "frontend_image_path": "/images/29_0.png"
+    "frontend_image_path": "./images/29_0.png"
   },
   {
     "id": 111,
@@ -14175,7 +14175,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/32_0.png"
     ],
-    "frontend_image_path": "/images/32_0.png"
+    "frontend_image_path": "./images/32_0.png"
   },
   {
     "id": 112,
@@ -14314,7 +14314,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/32_0.png"
     ],
-    "frontend_image_path": "/images/32_0.png"
+    "frontend_image_path": "./images/32_0.png"
   },
   {
     "id": 113,
@@ -14415,7 +14415,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/33_0.png"
     ],
-    "frontend_image_path": "/images/33_0.png"
+    "frontend_image_path": "./images/33_0.png"
   },
   {
     "id": 114,
@@ -14560,7 +14560,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/33_0.png"
     ],
-    "frontend_image_path": "/images/33_0.png"
+    "frontend_image_path": "./images/33_0.png"
   },
   {
     "id": 115,
@@ -14653,7 +14653,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/34_0.png"
     ],
-    "frontend_image_path": "/images/34_0.png"
+    "frontend_image_path": "./images/34_0.png"
   },
   {
     "id": 116,
@@ -14816,7 +14816,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/33_0.png"
     ],
-    "frontend_image_path": "/images/33_0.png"
+    "frontend_image_path": "./images/33_0.png"
   },
   {
     "id": 117,
@@ -14913,7 +14913,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/34_0.png"
     ],
-    "frontend_image_path": "/images/34_0.png"
+    "frontend_image_path": "./images/34_0.png"
   },
   {
     "id": 118,
@@ -15016,7 +15016,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/34_0.png"
     ],
-    "frontend_image_path": "/images/34_0.png"
+    "frontend_image_path": "./images/34_0.png"
   },
   {
     "id": 119,
@@ -15113,7 +15113,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/34_0.png"
     ],
-    "frontend_image_path": "/images/34_0.png"
+    "frontend_image_path": "./images/34_0.png"
   },
   {
     "id": 120,
@@ -15242,7 +15242,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/29_0.png"
     ],
-    "frontend_image_path": "/images/29_0.png"
+    "frontend_image_path": "./images/29_0.png"
   },
   {
     "id": 121,
@@ -15457,7 +15457,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/36_0.png"
     ],
-    "frontend_image_path": "/images/36_0.png"
+    "frontend_image_path": "./images/36_0.png"
   },
   {
     "id": 122,
@@ -15610,7 +15610,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/35_0.png"
     ],
-    "frontend_image_path": "/images/35_0.png"
+    "frontend_image_path": "./images/35_0.png"
   },
   {
     "id": 123,
@@ -15707,7 +15707,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/36_0.png"
     ],
-    "frontend_image_path": "/images/36_0.png"
+    "frontend_image_path": "./images/36_0.png"
   },
   {
     "id": 124,
@@ -15830,7 +15830,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/35_0.png"
     ],
-    "frontend_image_path": "/images/35_0.png"
+    "frontend_image_path": "./images/35_0.png"
   },
   {
     "id": 125,
@@ -16137,7 +16137,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/36_0.png"
     ],
-    "frontend_image_path": "/images/36_0.png"
+    "frontend_image_path": "./images/36_0.png"
   },
   {
     "id": 126,
@@ -16248,7 +16248,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/35_0.png"
     ],
-    "frontend_image_path": "/images/35_0.png"
+    "frontend_image_path": "./images/35_0.png"
   },
   {
     "id": 127,
@@ -16443,7 +16443,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/36_0.png"
     ],
-    "frontend_image_path": "/images/36_0.png"
+    "frontend_image_path": "./images/36_0.png"
   },
   {
     "id": 128,
@@ -16566,7 +16566,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/36_0.png"
     ],
-    "frontend_image_path": "/images/36_0.png"
+    "frontend_image_path": "./images/36_0.png"
   },
   {
     "id": 129,
@@ -16693,7 +16693,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/37_0.png"
     ],
-    "frontend_image_path": "/images/37_0.png"
+    "frontend_image_path": "./images/37_0.png"
   },
   {
     "id": 130,
@@ -16796,7 +16796,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/37_0.png"
     ],
-    "frontend_image_path": "/images/37_0.png"
+    "frontend_image_path": "./images/37_0.png"
   },
   {
     "id": 131,
@@ -16851,7 +16851,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/38_0.png"
     ],
-    "frontend_image_path": "/images/38_0.png"
+    "frontend_image_path": "./images/38_0.png"
   },
   {
     "id": 132,
@@ -16968,7 +16968,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/37_0.png"
     ],
-    "frontend_image_path": "/images/37_0.png"
+    "frontend_image_path": "./images/37_0.png"
   },
   {
     "id": 133,
@@ -17087,7 +17087,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/38_0.png"
     ],
-    "frontend_image_path": "/images/38_0.png"
+    "frontend_image_path": "./images/38_0.png"
   },
   {
     "id": 134,
@@ -17288,7 +17288,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/39_0.png"
     ],
-    "frontend_image_path": "/images/39_0.png"
+    "frontend_image_path": "./images/39_0.png"
   },
   {
     "id": 135,
@@ -17447,7 +17447,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/39_0.png"
     ],
-    "frontend_image_path": "/images/39_0.png"
+    "frontend_image_path": "./images/39_0.png"
   },
   {
     "id": 136,
@@ -17582,7 +17582,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/38_0.png"
     ],
-    "frontend_image_path": "/images/38_0.png"
+    "frontend_image_path": "./images/38_0.png"
   },
   {
     "id": 137,
@@ -17679,7 +17679,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/40_0.png"
     ],
-    "frontend_image_path": "/images/40_0.png"
+    "frontend_image_path": "./images/40_0.png"
   },
   {
     "id": 138,
@@ -17782,7 +17782,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/40_0.png"
     ],
-    "frontend_image_path": "/images/40_0.png"
+    "frontend_image_path": "./images/40_0.png"
   },
   {
     "id": 139,
@@ -17895,7 +17895,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/40_0.png"
     ],
-    "frontend_image_path": "/images/40_0.png"
+    "frontend_image_path": "./images/40_0.png"
   },
   {
     "id": 140,
@@ -17972,7 +17972,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/40_0.png"
     ],
-    "frontend_image_path": "/images/40_0.png"
+    "frontend_image_path": "./images/40_0.png"
   },
   {
     "id": 141,
@@ -18071,7 +18071,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/42_0.png"
     ],
-    "frontend_image_path": "/images/42_0.png"
+    "frontend_image_path": "./images/42_0.png"
   },
   {
     "id": 142,
@@ -18232,7 +18232,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/41_0.png"
     ],
-    "frontend_image_path": "/images/41_0.png"
+    "frontend_image_path": "./images/41_0.png"
   },
   {
     "id": 143,
@@ -18383,7 +18383,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/41_0.png"
     ],
-    "frontend_image_path": "/images/41_0.png"
+    "frontend_image_path": "./images/41_0.png"
   },
   {
     "id": 144,
@@ -18490,7 +18490,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/42_0.png"
     ],
-    "frontend_image_path": "/images/42_0.png"
+    "frontend_image_path": "./images/42_0.png"
   },
   {
     "id": 145,
@@ -18615,7 +18615,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/42_0.png"
     ],
-    "frontend_image_path": "/images/42_0.png"
+    "frontend_image_path": "./images/42_0.png"
   },
   {
     "id": 146,
@@ -18726,7 +18726,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/42_0.png"
     ],
-    "frontend_image_path": "/images/42_0.png"
+    "frontend_image_path": "./images/42_0.png"
   },
   {
     "id": 147,
@@ -18857,7 +18857,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/42_0.png"
     ],
-    "frontend_image_path": "/images/42_0.png"
+    "frontend_image_path": "./images/42_0.png"
   },
   {
     "id": 148,
@@ -18992,7 +18992,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/40_0.png"
     ],
-    "frontend_image_path": "/images/40_0.png"
+    "frontend_image_path": "./images/40_0.png"
   },
   {
     "id": 149,
@@ -19125,7 +19125,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/43_0.png"
     ],
-    "frontend_image_path": "/images/43_0.png"
+    "frontend_image_path": "./images/43_0.png"
   },
   {
     "id": 150,
@@ -19236,7 +19236,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/43_0.png"
     ],
-    "frontend_image_path": "/images/43_0.png"
+    "frontend_image_path": "./images/43_0.png"
   },
   {
     "id": 151,
@@ -19339,7 +19339,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/43_0.png"
     ],
-    "frontend_image_path": "/images/43_0.png"
+    "frontend_image_path": "./images/43_0.png"
   },
   {
     "id": 152,
@@ -19452,7 +19452,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/43_0.png"
     ],
-    "frontend_image_path": "/images/43_0.png"
+    "frontend_image_path": "./images/43_0.png"
   },
   {
     "id": 153,
@@ -19573,7 +19573,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/43_0.png"
     ],
-    "frontend_image_path": "/images/43_0.png"
+    "frontend_image_path": "./images/43_0.png"
   },
   {
     "id": 154,
@@ -19766,7 +19766,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/45_0.png"
     ],
-    "frontend_image_path": "/images/45_0.png"
+    "frontend_image_path": "./images/45_0.png"
   },
   {
     "id": 155,
@@ -19873,7 +19873,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/46_0.png"
     ],
-    "frontend_image_path": "/images/46_0.png"
+    "frontend_image_path": "./images/46_0.png"
   },
   {
     "id": 156,
@@ -20084,7 +20084,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/45_0.png"
     ],
-    "frontend_image_path": "/images/45_0.png"
+    "frontend_image_path": "./images/45_0.png"
   },
   {
     "id": 157,
@@ -20263,7 +20263,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/46_0.png"
     ],
-    "frontend_image_path": "/images/46_0.png"
+    "frontend_image_path": "./images/46_0.png"
   },
   {
     "id": 158,
@@ -20399,7 +20399,7 @@
       "benchmarks/ZeroBench_hf/images/44_0.png",
       "benchmarks/ZeroBench_hf/images/44_1.png"
     ],
-    "frontend_image_path": "/images/44_0.png"
+    "frontend_image_path": "./images/44_0.png"
   },
   {
     "id": 159,
@@ -20525,7 +20525,7 @@
       "benchmarks/ZeroBench_hf/images/44_0.png",
       "benchmarks/ZeroBench_hf/images/44_1.png"
     ],
-    "frontend_image_path": "/images/44_0.png"
+    "frontend_image_path": "./images/44_0.png"
   },
   {
     "id": 160,
@@ -20675,7 +20675,7 @@
       "benchmarks/ZeroBench_hf/images/44_0.png",
       "benchmarks/ZeroBench_hf/images/44_1.png"
     ],
-    "frontend_image_path": "/images/44_0.png"
+    "frontend_image_path": "./images/44_0.png"
   },
   {
     "id": 161,
@@ -20914,7 +20914,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/45_0.png"
     ],
-    "frontend_image_path": "/images/45_0.png"
+    "frontend_image_path": "./images/45_0.png"
   },
   {
     "id": 162,
@@ -21107,7 +21107,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/46_0.png"
     ],
-    "frontend_image_path": "/images/46_0.png"
+    "frontend_image_path": "./images/46_0.png"
   },
   {
     "id": 163,
@@ -21230,7 +21230,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/48_0.png"
     ],
-    "frontend_image_path": "/images/48_0.png"
+    "frontend_image_path": "./images/48_0.png"
   },
   {
     "id": 164,
@@ -21345,7 +21345,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/48_0.png"
     ],
-    "frontend_image_path": "/images/48_0.png"
+    "frontend_image_path": "./images/48_0.png"
   },
   {
     "id": 165,
@@ -21434,7 +21434,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/47_0.png"
     ],
-    "frontend_image_path": "/images/47_0.png"
+    "frontend_image_path": "./images/47_0.png"
   },
   {
     "id": 166,
@@ -21533,7 +21533,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/47_0.png"
     ],
-    "frontend_image_path": "/images/47_0.png"
+    "frontend_image_path": "./images/47_0.png"
   },
   {
     "id": 167,
@@ -21648,7 +21648,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/47_0.png"
     ],
-    "frontend_image_path": "/images/47_0.png"
+    "frontend_image_path": "./images/47_0.png"
   },
   {
     "id": 168,
@@ -21807,7 +21807,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/47_0.png"
     ],
-    "frontend_image_path": "/images/47_0.png"
+    "frontend_image_path": "./images/47_0.png"
   },
   {
     "id": 169,
@@ -21972,7 +21972,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/48_0.png"
     ],
-    "frontend_image_path": "/images/48_0.png"
+    "frontend_image_path": "./images/48_0.png"
   },
   {
     "id": 170,
@@ -22073,7 +22073,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/49_0.png"
     ],
-    "frontend_image_path": "/images/49_0.png"
+    "frontend_image_path": "./images/49_0.png"
   },
   {
     "id": 171,
@@ -22182,7 +22182,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/47_0.png"
     ],
-    "frontend_image_path": "/images/47_0.png"
+    "frontend_image_path": "./images/47_0.png"
   },
   {
     "id": 172,
@@ -22301,7 +22301,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/49_0.png"
     ],
-    "frontend_image_path": "/images/49_0.png"
+    "frontend_image_path": "./images/49_0.png"
   },
   {
     "id": 173,
@@ -22398,7 +22398,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/49_0.png"
     ],
-    "frontend_image_path": "/images/49_0.png"
+    "frontend_image_path": "./images/49_0.png"
   },
   {
     "id": 174,
@@ -22517,7 +22517,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/51_0.png"
     ],
-    "frontend_image_path": "/images/51_0.png"
+    "frontend_image_path": "./images/51_0.png"
   },
   {
     "id": 175,
@@ -22626,7 +22626,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/51_0.png"
     ],
-    "frontend_image_path": "/images/51_0.png"
+    "frontend_image_path": "./images/51_0.png"
   },
   {
     "id": 176,
@@ -22723,7 +22723,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/52_0.png"
     ],
-    "frontend_image_path": "/images/52_0.png"
+    "frontend_image_path": "./images/52_0.png"
   },
   {
     "id": 177,
@@ -22816,7 +22816,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/52_0.png"
     ],
-    "frontend_image_path": "/images/52_0.png"
+    "frontend_image_path": "./images/52_0.png"
   },
   {
     "id": 178,
@@ -22919,7 +22919,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/52_0.png"
     ],
-    "frontend_image_path": "/images/52_0.png"
+    "frontend_image_path": "./images/52_0.png"
   },
   {
     "id": 179,
@@ -23026,7 +23026,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/50_0.png"
     ],
-    "frontend_image_path": "/images/50_0.png"
+    "frontend_image_path": "./images/50_0.png"
   },
   {
     "id": 180,
@@ -23143,7 +23143,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/50_0.png"
     ],
-    "frontend_image_path": "/images/50_0.png"
+    "frontend_image_path": "./images/50_0.png"
   },
   {
     "id": 181,
@@ -23260,7 +23260,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/52_0.png"
     ],
-    "frontend_image_path": "/images/52_0.png"
+    "frontend_image_path": "./images/52_0.png"
   },
   {
     "id": 182,
@@ -23417,7 +23417,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/53_0.png"
     ],
-    "frontend_image_path": "/images/53_0.png"
+    "frontend_image_path": "./images/53_0.png"
   },
   {
     "id": 183,
@@ -23530,7 +23530,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/54_0.png"
     ],
-    "frontend_image_path": "/images/54_0.png"
+    "frontend_image_path": "./images/54_0.png"
   },
   {
     "id": 184,
@@ -23643,7 +23643,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/54_0.png"
     ],
-    "frontend_image_path": "/images/54_0.png"
+    "frontend_image_path": "./images/54_0.png"
   },
   {
     "id": 185,
@@ -23810,7 +23810,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/55_0.png"
     ],
-    "frontend_image_path": "/images/55_0.png"
+    "frontend_image_path": "./images/55_0.png"
   },
   {
     "id": 186,
@@ -23931,7 +23931,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/55_0.png"
     ],
-    "frontend_image_path": "/images/55_0.png"
+    "frontend_image_path": "./images/55_0.png"
   },
   {
     "id": 187,
@@ -24126,7 +24126,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/55_0.png"
     ],
-    "frontend_image_path": "/images/55_0.png"
+    "frontend_image_path": "./images/55_0.png"
   },
   {
     "id": 188,
@@ -24247,7 +24247,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/55_0.png"
     ],
-    "frontend_image_path": "/images/55_0.png"
+    "frontend_image_path": "./images/55_0.png"
   },
   {
     "id": 189,
@@ -24336,7 +24336,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/56_0.png"
     ],
-    "frontend_image_path": "/images/56_0.png"
+    "frontend_image_path": "./images/56_0.png"
   },
   {
     "id": 190,
@@ -24435,7 +24435,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/56_0.png"
     ],
-    "frontend_image_path": "/images/56_0.png"
+    "frontend_image_path": "./images/56_0.png"
   },
   {
     "id": 191,
@@ -24566,7 +24566,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/56_0.png"
     ],
-    "frontend_image_path": "/images/56_0.png"
+    "frontend_image_path": "./images/56_0.png"
   },
   {
     "id": 192,
@@ -24715,7 +24715,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/58_0.png"
     ],
-    "frontend_image_path": "/images/58_0.png"
+    "frontend_image_path": "./images/58_0.png"
   },
   {
     "id": 193,
@@ -24864,7 +24864,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/58_0.png"
     ],
-    "frontend_image_path": "/images/58_0.png"
+    "frontend_image_path": "./images/58_0.png"
   },
   {
     "id": 194,
@@ -25029,7 +25029,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/57_0.png"
     ],
-    "frontend_image_path": "/images/57_0.png"
+    "frontend_image_path": "./images/57_0.png"
   },
   {
     "id": 195,
@@ -25178,7 +25178,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/57_0.png"
     ],
-    "frontend_image_path": "/images/57_0.png"
+    "frontend_image_path": "./images/57_0.png"
   },
   {
     "id": 196,
@@ -25295,7 +25295,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/58_0.png"
     ],
-    "frontend_image_path": "/images/58_0.png"
+    "frontend_image_path": "./images/58_0.png"
   },
   {
     "id": 197,
@@ -25494,7 +25494,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/59_0.png"
     ],
-    "frontend_image_path": "/images/59_0.png"
+    "frontend_image_path": "./images/59_0.png"
   },
   {
     "id": 198,
@@ -25601,7 +25601,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/59_0.png"
     ],
-    "frontend_image_path": "/images/59_0.png"
+    "frontend_image_path": "./images/59_0.png"
   },
   {
     "id": 199,
@@ -25756,7 +25756,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/59_0.png"
     ],
-    "frontend_image_path": "/images/59_0.png"
+    "frontend_image_path": "./images/59_0.png"
   },
   {
     "id": 200,
@@ -25849,7 +25849,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/52_0.png"
     ],
-    "frontend_image_path": "/images/52_0.png"
+    "frontend_image_path": "./images/52_0.png"
   },
   {
     "id": 201,
@@ -25956,7 +25956,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/55_0.png"
     ],
-    "frontend_image_path": "/images/55_0.png"
+    "frontend_image_path": "./images/55_0.png"
   },
   {
     "id": 202,
@@ -26057,7 +26057,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/61_0.png"
     ],
-    "frontend_image_path": "/images/61_0.png"
+    "frontend_image_path": "./images/61_0.png"
   },
   {
     "id": 203,
@@ -26164,7 +26164,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/61_0.png"
     ],
-    "frontend_image_path": "/images/61_0.png"
+    "frontend_image_path": "./images/61_0.png"
   },
   {
     "id": 204,
@@ -26277,7 +26277,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/61_0.png"
     ],
-    "frontend_image_path": "/images/61_0.png"
+    "frontend_image_path": "./images/61_0.png"
   },
   {
     "id": 205,
@@ -26460,7 +26460,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/60_0.png"
     ],
-    "frontend_image_path": "/images/60_0.png"
+    "frontend_image_path": "./images/60_0.png"
   },
   {
     "id": 206,
@@ -26647,7 +26647,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/62_0.png"
     ],
-    "frontend_image_path": "/images/62_0.png"
+    "frontend_image_path": "./images/62_0.png"
   },
   {
     "id": 207,
@@ -26750,7 +26750,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/62_0.png"
     ],
-    "frontend_image_path": "/images/62_0.png"
+    "frontend_image_path": "./images/62_0.png"
   },
   {
     "id": 208,
@@ -26849,7 +26849,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/63_0.png"
     ],
-    "frontend_image_path": "/images/63_0.png"
+    "frontend_image_path": "./images/63_0.png"
   },
   {
     "id": 209,
@@ -27002,7 +27002,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/60_0.png"
     ],
-    "frontend_image_path": "/images/60_0.png"
+    "frontend_image_path": "./images/60_0.png"
   },
   {
     "id": 210,
@@ -27123,7 +27123,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/62_0.png"
     ],
-    "frontend_image_path": "/images/62_0.png"
+    "frontend_image_path": "./images/62_0.png"
   },
   {
     "id": 211,
@@ -27280,7 +27280,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/63_0.png"
     ],
-    "frontend_image_path": "/images/63_0.png"
+    "frontend_image_path": "./images/63_0.png"
   },
   {
     "id": 212,
@@ -27393,7 +27393,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/63_0.png"
     ],
-    "frontend_image_path": "/images/63_0.png"
+    "frontend_image_path": "./images/63_0.png"
   },
   {
     "id": 213,
@@ -27490,7 +27490,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/64_0.png"
     ],
-    "frontend_image_path": "/images/64_0.png"
+    "frontend_image_path": "./images/64_0.png"
   },
   {
     "id": 214,
@@ -27617,7 +27617,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/63_0.png"
     ],
-    "frontend_image_path": "/images/63_0.png"
+    "frontend_image_path": "./images/63_0.png"
   },
   {
     "id": 215,
@@ -27701,7 +27701,7 @@
       "benchmarks/ZeroBench_hf/images/65_0.png",
       "benchmarks/ZeroBench_hf/images/65_1.png"
     ],
-    "frontend_image_path": "/images/65_0.png"
+    "frontend_image_path": "./images/65_0.png"
   },
   {
     "id": 216,
@@ -27856,7 +27856,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/64_0.png"
     ],
-    "frontend_image_path": "/images/64_0.png"
+    "frontend_image_path": "./images/64_0.png"
   },
   {
     "id": 217,
@@ -27999,7 +27999,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/66_0.png"
     ],
-    "frontend_image_path": "/images/66_0.png"
+    "frontend_image_path": "./images/66_0.png"
   },
   {
     "id": 218,
@@ -28129,7 +28129,7 @@
       "benchmarks/ZeroBench_hf/images/65_0.png",
       "benchmarks/ZeroBench_hf/images/65_1.png"
     ],
-    "frontend_image_path": "/images/65_0.png"
+    "frontend_image_path": "./images/65_0.png"
   },
   {
     "id": 219,
@@ -28273,7 +28273,7 @@
       "benchmarks/ZeroBench_hf/images/65_0.png",
       "benchmarks/ZeroBench_hf/images/65_1.png"
     ],
-    "frontend_image_path": "/images/65_0.png"
+    "frontend_image_path": "./images/65_0.png"
   },
   {
     "id": 220,
@@ -28409,7 +28409,7 @@
       "benchmarks/ZeroBench_hf/images/65_0.png",
       "benchmarks/ZeroBench_hf/images/65_1.png"
     ],
-    "frontend_image_path": "/images/65_0.png"
+    "frontend_image_path": "./images/65_0.png"
   },
   {
     "id": 221,
@@ -28524,7 +28524,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/68_0.png"
     ],
-    "frontend_image_path": "/images/68_0.png"
+    "frontend_image_path": "./images/68_0.png"
   },
   {
     "id": 222,
@@ -28635,7 +28635,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/68_0.png"
     ],
-    "frontend_image_path": "/images/68_0.png"
+    "frontend_image_path": "./images/68_0.png"
   },
   {
     "id": 223,
@@ -28780,7 +28780,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/67_0.png"
     ],
-    "frontend_image_path": "/images/67_0.png"
+    "frontend_image_path": "./images/67_0.png"
   },
   {
     "id": 224,
@@ -28891,7 +28891,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/67_0.png"
     ],
-    "frontend_image_path": "/images/67_0.png"
+    "frontend_image_path": "./images/67_0.png"
   },
   {
     "id": 225,
@@ -29030,7 +29030,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/68_0.png"
     ],
-    "frontend_image_path": "/images/68_0.png"
+    "frontend_image_path": "./images/68_0.png"
   },
   {
     "id": 226,
@@ -29197,7 +29197,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/67_0.png"
     ],
-    "frontend_image_path": "/images/67_0.png"
+    "frontend_image_path": "./images/67_0.png"
   },
   {
     "id": 227,
@@ -29310,7 +29310,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/54_0.png"
     ],
-    "frontend_image_path": "/images/54_0.png"
+    "frontend_image_path": "./images/54_0.png"
   },
   {
     "id": 228,
@@ -29431,7 +29431,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/69_0.png"
     ],
-    "frontend_image_path": "/images/69_0.png"
+    "frontend_image_path": "./images/69_0.png"
   },
   {
     "id": 229,
@@ -29548,7 +29548,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/69_0.png"
     ],
-    "frontend_image_path": "/images/69_0.png"
+    "frontend_image_path": "./images/69_0.png"
   },
   {
     "id": 230,
@@ -29687,7 +29687,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/70_0.png"
     ],
-    "frontend_image_path": "/images/70_0.png"
+    "frontend_image_path": "./images/70_0.png"
   },
   {
     "id": 231,
@@ -29890,7 +29890,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/69_0.png"
     ],
-    "frontend_image_path": "/images/69_0.png"
+    "frontend_image_path": "./images/69_0.png"
   },
   {
     "id": 232,
@@ -30011,7 +30011,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/69_0.png"
     ],
-    "frontend_image_path": "/images/69_0.png"
+    "frontend_image_path": "./images/69_0.png"
   },
   {
     "id": 233,
@@ -30114,7 +30114,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/70_0.png"
     ],
-    "frontend_image_path": "/images/70_0.png"
+    "frontend_image_path": "./images/70_0.png"
   },
   {
     "id": 234,
@@ -30235,7 +30235,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/69_0.png"
     ],
-    "frontend_image_path": "/images/69_0.png"
+    "frontend_image_path": "./images/69_0.png"
   },
   {
     "id": 235,
@@ -30362,7 +30362,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/70_0.png"
     ],
-    "frontend_image_path": "/images/70_0.png"
+    "frontend_image_path": "./images/70_0.png"
   },
   {
     "id": 236,
@@ -30521,7 +30521,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/71_0.png"
     ],
-    "frontend_image_path": "/images/71_0.png"
+    "frontend_image_path": "./images/71_0.png"
   },
   {
     "id": 237,
@@ -30694,7 +30694,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/73_0.png"
     ],
-    "frontend_image_path": "/images/73_0.png"
+    "frontend_image_path": "./images/73_0.png"
   },
   {
     "id": 238,
@@ -30847,7 +30847,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/71_0.png"
     ],
-    "frontend_image_path": "/images/71_0.png"
+    "frontend_image_path": "./images/71_0.png"
   },
   {
     "id": 239,
@@ -30944,7 +30944,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/72_0.png"
     ],
-    "frontend_image_path": "/images/72_0.png"
+    "frontend_image_path": "./images/72_0.png"
   },
   {
     "id": 240,
@@ -31053,7 +31053,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/73_0.png"
     ],
-    "frontend_image_path": "/images/73_0.png"
+    "frontend_image_path": "./images/73_0.png"
   },
   {
     "id": 241,
@@ -31216,7 +31216,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/73_0.png"
     ],
-    "frontend_image_path": "/images/73_0.png"
+    "frontend_image_path": "./images/73_0.png"
   },
   {
     "id": 242,
@@ -31315,7 +31315,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/72_0.png"
     ],
-    "frontend_image_path": "/images/72_0.png"
+    "frontend_image_path": "./images/72_0.png"
   },
   {
     "id": 243,
@@ -31440,7 +31440,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/72_0.png"
     ],
-    "frontend_image_path": "/images/72_0.png"
+    "frontend_image_path": "./images/72_0.png"
   },
   {
     "id": 244,
@@ -31529,7 +31529,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/75_0.png"
     ],
-    "frontend_image_path": "/images/75_0.png"
+    "frontend_image_path": "./images/75_0.png"
   },
   {
     "id": 245,
@@ -31630,7 +31630,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/74_0.png"
     ],
-    "frontend_image_path": "/images/74_0.png"
+    "frontend_image_path": "./images/74_0.png"
   },
   {
     "id": 246,
@@ -31737,7 +31737,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/75_0.png"
     ],
-    "frontend_image_path": "/images/75_0.png"
+    "frontend_image_path": "./images/75_0.png"
   },
   {
     "id": 247,
@@ -31870,7 +31870,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/74_0.png"
     ],
-    "frontend_image_path": "/images/74_0.png"
+    "frontend_image_path": "./images/74_0.png"
   },
   {
     "id": 248,
@@ -31981,7 +31981,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/74_0.png"
     ],
-    "frontend_image_path": "/images/74_0.png"
+    "frontend_image_path": "./images/74_0.png"
   },
   {
     "id": 249,
@@ -32128,7 +32128,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/75_0.png"
     ],
-    "frontend_image_path": "/images/75_0.png"
+    "frontend_image_path": "./images/75_0.png"
   },
   {
     "id": 250,
@@ -32263,7 +32263,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/74_0.png"
     ],
-    "frontend_image_path": "/images/74_0.png"
+    "frontend_image_path": "./images/74_0.png"
   },
   {
     "id": 251,
@@ -32370,7 +32370,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/76_0.png"
     ],
-    "frontend_image_path": "/images/76_0.png"
+    "frontend_image_path": "./images/76_0.png"
   },
   {
     "id": 252,
@@ -32463,7 +32463,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/76_0.png"
     ],
-    "frontend_image_path": "/images/76_0.png"
+    "frontend_image_path": "./images/76_0.png"
   },
   {
     "id": 253,
@@ -32550,7 +32550,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/77_0.png"
     ],
-    "frontend_image_path": "/images/77_0.png"
+    "frontend_image_path": "./images/77_0.png"
   },
   {
     "id": 254,
@@ -32673,7 +32673,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/76_0.png"
     ],
-    "frontend_image_path": "/images/76_0.png"
+    "frontend_image_path": "./images/76_0.png"
   },
   {
     "id": 255,
@@ -32822,7 +32822,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/77_0.png"
     ],
-    "frontend_image_path": "/images/77_0.png"
+    "frontend_image_path": "./images/77_0.png"
   },
   {
     "id": 256,
@@ -32937,7 +32937,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/78_0.png"
     ],
-    "frontend_image_path": "/images/78_0.png"
+    "frontend_image_path": "./images/78_0.png"
   },
   {
     "id": 257,
@@ -33052,7 +33052,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/78_0.png"
     ],
-    "frontend_image_path": "/images/78_0.png"
+    "frontend_image_path": "./images/78_0.png"
   },
   {
     "id": 258,
@@ -33167,7 +33167,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/78_0.png"
     ],
-    "frontend_image_path": "/images/78_0.png"
+    "frontend_image_path": "./images/78_0.png"
   },
   {
     "id": 259,
@@ -33278,7 +33278,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/80_0.png"
     ],
-    "frontend_image_path": "/images/80_0.png"
+    "frontend_image_path": "./images/80_0.png"
   },
   {
     "id": 260,
@@ -33393,7 +33393,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/78_0.png"
     ],
-    "frontend_image_path": "/images/78_0.png"
+    "frontend_image_path": "./images/78_0.png"
   },
   {
     "id": 261,
@@ -33542,7 +33542,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/79_0.png"
     ],
-    "frontend_image_path": "/images/79_0.png"
+    "frontend_image_path": "./images/79_0.png"
   },
   {
     "id": 262,
@@ -33657,7 +33657,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/78_0.png"
     ],
-    "frontend_image_path": "/images/78_0.png"
+    "frontend_image_path": "./images/78_0.png"
   },
   {
     "id": 263,
@@ -33856,7 +33856,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/79_0.png"
     ],
-    "frontend_image_path": "/images/79_0.png"
+    "frontend_image_path": "./images/79_0.png"
   },
   {
     "id": 264,
@@ -33957,7 +33957,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/81_0.png"
     ],
-    "frontend_image_path": "/images/81_0.png"
+    "frontend_image_path": "./images/81_0.png"
   },
   {
     "id": 265,
@@ -34056,7 +34056,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/81_0.png"
     ],
-    "frontend_image_path": "/images/81_0.png"
+    "frontend_image_path": "./images/81_0.png"
   },
   {
     "id": 266,
@@ -34183,7 +34183,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/82_0.png"
     ],
-    "frontend_image_path": "/images/82_0.png"
+    "frontend_image_path": "./images/82_0.png"
   },
   {
     "id": 267,
@@ -34346,7 +34346,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/83_0.png"
     ],
-    "frontend_image_path": "/images/83_0.png"
+    "frontend_image_path": "./images/83_0.png"
   },
   {
     "id": 268,
@@ -34463,7 +34463,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/82_0.png"
     ],
-    "frontend_image_path": "/images/82_0.png"
+    "frontend_image_path": "./images/82_0.png"
   },
   {
     "id": 269,
@@ -34624,7 +34624,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/83_0.png"
     ],
-    "frontend_image_path": "/images/83_0.png"
+    "frontend_image_path": "./images/83_0.png"
   },
   {
     "id": 270,
@@ -34747,7 +34747,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/83_0.png"
     ],
-    "frontend_image_path": "/images/83_0.png"
+    "frontend_image_path": "./images/83_0.png"
   },
   {
     "id": 271,
@@ -34888,7 +34888,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/83_0.png"
     ],
-    "frontend_image_path": "/images/83_0.png"
+    "frontend_image_path": "./images/83_0.png"
   },
   {
     "id": 272,
@@ -35049,7 +35049,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/84_0.png"
     ],
-    "frontend_image_path": "/images/84_0.png"
+    "frontend_image_path": "./images/84_0.png"
   },
   {
     "id": 273,
@@ -35180,7 +35180,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/84_0.png"
     ],
-    "frontend_image_path": "/images/84_0.png"
+    "frontend_image_path": "./images/84_0.png"
   },
   {
     "id": 274,
@@ -35315,7 +35315,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/84_0.png"
     ],
-    "frontend_image_path": "/images/84_0.png"
+    "frontend_image_path": "./images/84_0.png"
   },
   {
     "id": 275,
@@ -35404,7 +35404,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/84_0.png"
     ],
-    "frontend_image_path": "/images/84_0.png"
+    "frontend_image_path": "./images/84_0.png"
   },
   {
     "id": 276,
@@ -35511,7 +35511,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/84_0.png"
     ],
-    "frontend_image_path": "/images/84_0.png"
+    "frontend_image_path": "./images/84_0.png"
   },
   {
     "id": 277,
@@ -35636,7 +35636,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/85_0.png"
     ],
-    "frontend_image_path": "/images/85_0.png"
+    "frontend_image_path": "./images/85_0.png"
   },
   {
     "id": 278,
@@ -35757,7 +35757,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/85_0.png"
     ],
-    "frontend_image_path": "/images/85_0.png"
+    "frontend_image_path": "./images/85_0.png"
   },
   {
     "id": 279,
@@ -35870,7 +35870,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/86_0.png"
     ],
-    "frontend_image_path": "/images/86_0.png"
+    "frontend_image_path": "./images/86_0.png"
   },
   {
     "id": 280,
@@ -36049,7 +36049,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/87_0.png"
     ],
-    "frontend_image_path": "/images/87_0.png"
+    "frontend_image_path": "./images/87_0.png"
   },
   {
     "id": 281,
@@ -36186,7 +36186,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/87_0.png"
     ],
-    "frontend_image_path": "/images/87_0.png"
+    "frontend_image_path": "./images/87_0.png"
   },
   {
     "id": 282,
@@ -36321,7 +36321,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/76_0.png"
     ],
-    "frontend_image_path": "/images/76_0.png"
+    "frontend_image_path": "./images/76_0.png"
   },
   {
     "id": 283,
@@ -36500,7 +36500,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/87_0.png"
     ],
-    "frontend_image_path": "/images/87_0.png"
+    "frontend_image_path": "./images/87_0.png"
   },
   {
     "id": 284,
@@ -36633,7 +36633,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/87_0.png"
     ],
-    "frontend_image_path": "/images/87_0.png"
+    "frontend_image_path": "./images/87_0.png"
   },
   {
     "id": 285,
@@ -36804,7 +36804,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/88_0.png"
     ],
-    "frontend_image_path": "/images/88_0.png"
+    "frontend_image_path": "./images/88_0.png"
   },
   {
     "id": 286,
@@ -36963,7 +36963,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/88_0.png"
     ],
-    "frontend_image_path": "/images/88_0.png"
+    "frontend_image_path": "./images/88_0.png"
   },
   {
     "id": 287,
@@ -37102,7 +37102,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/83_0.png"
     ],
-    "frontend_image_path": "/images/83_0.png"
+    "frontend_image_path": "./images/83_0.png"
   },
   {
     "id": 288,
@@ -37219,7 +37219,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/16_0.png"
     ],
-    "frontend_image_path": "/images/16_0.png"
+    "frontend_image_path": "./images/16_0.png"
   },
   {
     "id": 289,
@@ -37331,7 +37331,7 @@
       "benchmarks/ZeroBench_hf/images/89_0.png",
       "benchmarks/ZeroBench_hf/images/89_1.png"
     ],
-    "frontend_image_path": "/images/89_0.png"
+    "frontend_image_path": "./images/89_0.png"
   },
   {
     "id": 290,
@@ -37455,7 +37455,7 @@
       "benchmarks/ZeroBench_hf/images/89_0.png",
       "benchmarks/ZeroBench_hf/images/89_1.png"
     ],
-    "frontend_image_path": "/images/89_0.png"
+    "frontend_image_path": "./images/89_0.png"
   },
   {
     "id": 291,
@@ -37580,7 +37580,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/90_0.png"
     ],
-    "frontend_image_path": "/images/90_0.png"
+    "frontend_image_path": "./images/90_0.png"
   },
   {
     "id": 292,
@@ -37684,7 +37684,7 @@
       "benchmarks/ZeroBench_hf/images/89_0.png",
       "benchmarks/ZeroBench_hf/images/89_1.png"
     ],
-    "frontend_image_path": "/images/89_0.png"
+    "frontend_image_path": "./images/89_0.png"
   },
   {
     "id": 293,
@@ -37805,7 +37805,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/90_0.png"
     ],
-    "frontend_image_path": "/images/90_0.png"
+    "frontend_image_path": "./images/90_0.png"
   },
   {
     "id": 294,
@@ -37916,7 +37916,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/87_0.png"
     ],
-    "frontend_image_path": "/images/87_0.png"
+    "frontend_image_path": "./images/87_0.png"
   },
   {
     "id": 295,
@@ -38019,7 +38019,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/90_0.png"
     ],
-    "frontend_image_path": "/images/90_0.png"
+    "frontend_image_path": "./images/90_0.png"
   },
   {
     "id": 296,
@@ -38137,7 +38137,7 @@
       "benchmarks/ZeroBench_hf/images/89_0.png",
       "benchmarks/ZeroBench_hf/images/89_1.png"
     ],
-    "frontend_image_path": "/images/89_0.png"
+    "frontend_image_path": "./images/89_0.png"
   },
   {
     "id": 297,
@@ -38259,7 +38259,7 @@
       "benchmarks/ZeroBench_hf/images/89_0.png",
       "benchmarks/ZeroBench_hf/images/89_1.png"
     ],
-    "frontend_image_path": "/images/89_0.png"
+    "frontend_image_path": "./images/89_0.png"
   },
   {
     "id": 298,
@@ -38386,7 +38386,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/90_0.png"
     ],
-    "frontend_image_path": "/images/90_0.png"
+    "frontend_image_path": "./images/90_0.png"
   },
   {
     "id": 299,
@@ -38499,7 +38499,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/90_0.png"
     ],
-    "frontend_image_path": "/images/90_0.png"
+    "frontend_image_path": "./images/90_0.png"
   },
   {
     "id": 300,
@@ -38606,7 +38606,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/92_0.png"
     ],
-    "frontend_image_path": "/images/92_0.png"
+    "frontend_image_path": "./images/92_0.png"
   },
   {
     "id": 301,
@@ -38699,7 +38699,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/91_0.png"
     ],
-    "frontend_image_path": "/images/91_0.png"
+    "frontend_image_path": "./images/91_0.png"
   },
   {
     "id": 302,
@@ -38824,7 +38824,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/92_0.png"
     ],
-    "frontend_image_path": "/images/92_0.png"
+    "frontend_image_path": "./images/92_0.png"
   },
   {
     "id": 303,
@@ -38929,7 +38929,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/91_0.png"
     ],
-    "frontend_image_path": "/images/91_0.png"
+    "frontend_image_path": "./images/91_0.png"
   },
   {
     "id": 304,
@@ -39032,7 +39032,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/91_0.png"
     ],
-    "frontend_image_path": "/images/91_0.png"
+    "frontend_image_path": "./images/91_0.png"
   },
   {
     "id": 305,
@@ -39161,7 +39161,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/92_0.png"
     ],
-    "frontend_image_path": "/images/92_0.png"
+    "frontend_image_path": "./images/92_0.png"
   },
   {
     "id": 306,
@@ -39276,7 +39276,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/92_0.png"
     ],
-    "frontend_image_path": "/images/92_0.png"
+    "frontend_image_path": "./images/92_0.png"
   },
   {
     "id": 307,
@@ -39353,7 +39353,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/94_0.png"
     ],
-    "frontend_image_path": "/images/94_0.png"
+    "frontend_image_path": "./images/94_0.png"
   },
   {
     "id": 308,
@@ -39486,7 +39486,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/93_0.png"
     ],
-    "frontend_image_path": "/images/93_0.png"
+    "frontend_image_path": "./images/93_0.png"
   },
   {
     "id": 309,
@@ -39641,7 +39641,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/93_0.png"
     ],
-    "frontend_image_path": "/images/93_0.png"
+    "frontend_image_path": "./images/93_0.png"
   },
   {
     "id": 310,
@@ -39750,7 +39750,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/96_0.png"
     ],
-    "frontend_image_path": "/images/96_0.png"
+    "frontend_image_path": "./images/96_0.png"
   },
   {
     "id": 311,
@@ -39889,7 +39889,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/96_0.png"
     ],
-    "frontend_image_path": "/images/96_0.png"
+    "frontend_image_path": "./images/96_0.png"
   },
   {
     "id": 312,
@@ -39992,7 +39992,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/96_0.png"
     ],
-    "frontend_image_path": "/images/96_0.png"
+    "frontend_image_path": "./images/96_0.png"
   },
   {
     "id": 313,
@@ -40113,7 +40113,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/95_0.png"
     ],
-    "frontend_image_path": "/images/95_0.png"
+    "frontend_image_path": "./images/95_0.png"
   },
   {
     "id": 314,
@@ -40210,7 +40210,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/96_0.png"
     ],
-    "frontend_image_path": "/images/96_0.png"
+    "frontend_image_path": "./images/96_0.png"
   },
   {
     "id": 315,
@@ -40339,7 +40339,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/96_0.png"
     ],
-    "frontend_image_path": "/images/96_0.png"
+    "frontend_image_path": "./images/96_0.png"
   },
   {
     "id": 316,
@@ -40458,7 +40458,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/97_0.png"
     ],
-    "frontend_image_path": "/images/97_0.png"
+    "frontend_image_path": "./images/97_0.png"
   },
   {
     "id": 317,
@@ -40575,7 +40575,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/97_0.png"
     ],
-    "frontend_image_path": "/images/97_0.png"
+    "frontend_image_path": "./images/97_0.png"
   },
   {
     "id": 318,
@@ -40686,7 +40686,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/97_0.png"
     ],
-    "frontend_image_path": "/images/97_0.png"
+    "frontend_image_path": "./images/97_0.png"
   },
   {
     "id": 319,
@@ -40798,7 +40798,7 @@
       "benchmarks/ZeroBench_hf/images/98_0.png",
       "benchmarks/ZeroBench_hf/images/98_1.png"
     ],
-    "frontend_image_path": "/images/98_0.png"
+    "frontend_image_path": "./images/98_0.png"
   },
   {
     "id": 320,
@@ -40924,7 +40924,7 @@
       "benchmarks/ZeroBench_hf/images/98_0.png",
       "benchmarks/ZeroBench_hf/images/98_1.png"
     ],
-    "frontend_image_path": "/images/98_0.png"
+    "frontend_image_path": "./images/98_0.png"
   },
   {
     "id": 321,
@@ -41044,7 +41044,7 @@
       "benchmarks/ZeroBench_hf/images/98_0.png",
       "benchmarks/ZeroBench_hf/images/98_1.png"
     ],
-    "frontend_image_path": "/images/98_0.png"
+    "frontend_image_path": "./images/98_0.png"
   },
   {
     "id": 322,
@@ -41193,7 +41193,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/99_0.png"
     ],
-    "frontend_image_path": "/images/99_0.png"
+    "frontend_image_path": "./images/99_0.png"
   },
   {
     "id": 323,
@@ -41294,7 +41294,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/99_0.png"
     ],
-    "frontend_image_path": "/images/99_0.png"
+    "frontend_image_path": "./images/99_0.png"
   },
   {
     "id": 324,
@@ -41423,7 +41423,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/99_0.png"
     ],
-    "frontend_image_path": "/images/99_0.png"
+    "frontend_image_path": "./images/99_0.png"
   },
   {
     "id": 325,
@@ -41492,7 +41492,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/34_0.png"
     ],
-    "frontend_image_path": "/images/34_0.png"
+    "frontend_image_path": "./images/34_0.png"
   },
   {
     "id": 326,
@@ -41637,7 +41637,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/100_0.png"
     ],
-    "frontend_image_path": "/images/100_0.png"
+    "frontend_image_path": "./images/100_0.png"
   },
   {
     "id": 327,
@@ -41764,7 +41764,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/100_0.png"
     ],
-    "frontend_image_path": "/images/100_0.png"
+    "frontend_image_path": "./images/100_0.png"
   },
   {
     "id": 328,
@@ -41877,7 +41877,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/100_0.png"
     ],
-    "frontend_image_path": "/images/100_0.png"
+    "frontend_image_path": "./images/100_0.png"
   },
   {
     "id": 329,
@@ -41980,7 +41980,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/58_0.png"
     ],
-    "frontend_image_path": "/images/58_0.png"
+    "frontend_image_path": "./images/58_0.png"
   },
   {
     "id": 330,
@@ -42083,7 +42083,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/91_0.png"
     ],
-    "frontend_image_path": "/images/91_0.png"
+    "frontend_image_path": "./images/91_0.png"
   },
   {
     "id": 331,
@@ -42206,7 +42206,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/76_0.png"
     ],
-    "frontend_image_path": "/images/76_0.png"
+    "frontend_image_path": "./images/76_0.png"
   },
   {
     "id": 332,
@@ -42299,7 +42299,7 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/85_0.png"
     ],
-    "frontend_image_path": "/images/85_0.png"
+    "frontend_image_path": "./images/85_0.png"
   },
   {
     "id": 333,
@@ -42374,6 +42374,6 @@
     "local_images": [
       "benchmarks/ZeroBench_hf/images/95_0.png"
     ],
-    "frontend_image_path": "/images/95_0.png"
+    "frontend_image_path": "./images/95_0.png"
   }
 ]
